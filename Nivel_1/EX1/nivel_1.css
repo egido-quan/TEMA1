@@ -1,0 +1,100 @@
+body{
+    max-width: 1200px;
+    background: lightgray;
+    margin: 10px;
+}
+
+section{
+    background: black;
+    padding: 5px;
+    margin: 10px;
+}
+.section2{
+    display:flex;
+    background: black;
+    padding: 5px;
+    margin: 10px;
+}
+
+.section_flex{
+    display:flex;
+    background: black;
+    padding: 5px;
+    margin: 10px;
+}
+.div1{
+    display: flex;
+    padding: 5px;
+    background: rgb(142, 5, 5);
+    margin: 10px;
+}
+.div2{
+    display: flex;
+    padding: 5px;
+    background: rgb(227, 145, 50);
+    margin: 10px;
+}
+.div3{
+    flex:3;
+    padding: 5px;
+    background: rgb(202, 22, 148);
+    margin: 10px;
+}
+.div31{
+    display:flex;
+    padding: 5px;
+    background: rgb(202, 22, 148); 
+}
+.div4{
+    flex:1;
+    padding: 5px;
+    margin: 10px;
+    background: rgb(148, 29, 11);
+}
+.logo{
+    background: rgb(237, 71, 71);
+    flex:1;
+    padding: 5px;
+    margin: 10px;
+}
+.nav{
+    background: rgb(237, 71, 71);
+    flex:2;
+    padding: 5px;
+    margin: 10px;
+}
+.social{
+    background: rgb(237, 71, 71);
+    flex:1;
+    padding: 5px;
+    margin: 10px;
+}
+.banner{
+    background: rgb(236, 233, 26);
+    flex:1;
+    margin: 10px;
+    padding: 5px;
+}
+.article{
+    background: rgb(237, 71, 71);
+    margin: 5px;
+    flex:1;
+    padding: 5px;
+}
+.navegacion{
+    background: rgb(20, 111, 186);
+    flex:1;
+    margin: 5px;
+    padding: 5px;
+}
+.publicidad{
+    background:  rgb(236, 233, 26);
+    margin: 10px;
+    padding: 5px;
+}
+.pie{
+    background: rgb(236, 233, 26);
+    flex:1;
+    margin: 10px;
+    padding: 5px;
+}
